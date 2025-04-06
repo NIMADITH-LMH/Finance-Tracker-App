@@ -16,7 +16,7 @@ This app is designed to provide users with complete control over their financial
 
 Used Android Studio as the working environment
 
-# These are some of the interface of the App
+# These are some of the interfaces of the App
 
 
 ![1](https://github.com/user-attachments/assets/537bcd9d-3395-4e57-bbb2-24439928ffe5)
