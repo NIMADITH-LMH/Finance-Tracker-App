@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item
+        android:id="@+id/action_monthly_report"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="Generate Monthly Report"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_category_analysis"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="View Expense Categories"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_income_analysis"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="View Income Analysis"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="App Settings"
+        app:showAsAction="never" />
+
+</menu> 

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- App theme colors -->
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="primary_light">#C5CAE9</color>
+    <color name="accent">#FF4081</color>
+    
+    <!-- Text colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    
+    <!-- Background colors -->
+    <color name="background">#FAFAFA</color>
+    <color name="card_background">#FFFFFF</color>
+    
+    <!-- Category colors -->
+    <color name="expense_color">#F44336</color>
+    <color name="income_color">#4CAF50</color>
+    
+    <!-- Colors used in the budget screen -->
+    <color name="expense_red">#F44336</color>
+    <color name="income_green">#4CAF50</color>
+    <color name="warning_orange">#FF9800</color>
+    
+    <!-- Progress bar colors -->
+    <color name="progress_background">#E0E0E0</color>
+    
+    <!-- Primary color palette - Teal/Mint -->
+    <color name="primary_variant">#00897B</color>
+    <color name="primary_dark_variant">#00796B</color>
+    <color name="primary_light_variant">#B2DFDB</color>
+    
+    <!-- Secondary color palette - Coral accent -->
+    <color name="secondary">#FF7043</color>
+    <color name="secondary_variant">#FF5722</color>
+    <color name="secondary_light">#FFCCBC</color>
+    
+    <color name="card_background_transparent">#F9FFFFFF</color>
+    
+    <color name="text_hint">#B0BEC5</color>
+    
+    <!-- Utility colors -->
+    <color name="ripple_color">#33000000</color>
+    <color name="warning_color">#FFC107</color>
+    
+    <!-- Legacy colors - keeping for backward compatibility -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#26A69A</color>
+    <color name="purple_700">#00796B</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="teal_700">#00796B</color>
+</resources>
