@@ -1,7 +1,7 @@
 # 💰 Finance Tracker - Your Personal Finance Companion
 
 <div align="center">
-  <img src="app/src/main/res/drawable/ic_finance_logo.png" alt="Finance Tracker Logo" width="180"/>
+  
   <p><em>Take control of your finances with powerful yet simple tracking</em></p>
   
   ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)
@@ -102,4 +102,4 @@ For any questions or suggestions, please open an issue on GitHub or contact the 
 
 
 
-This one of my university project that i did under mobile application development module 
+
